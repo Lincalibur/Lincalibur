@@ -32,7 +32,18 @@ I'm Liam Olivier, a passionate software developer with a love for technology and
 
 ### Badges
 
-<a href="https://github.com/lincalibur" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincalibur&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/lincalibur">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincalibur&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Q0OXdyejYzMjF3c3R3bWRzMmh0d3lsY3U1cTRzdDJ6OTBpZGpvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif" alt="Cyberpunk Coding" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <b>Top Repositories</b>
 
