@@ -1,5 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Liam
-============================================================================================================================
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=0891B2&center=true&vCenter=true&width=435&lines=Hi!+I'm+Liam+Olivier.;Full-Stack+Developer;Passionate+about+Tech+%26+Creativity!" alt="Typing SVG" />
+</p>
 
 Full-Stack Developer
 --------------------
