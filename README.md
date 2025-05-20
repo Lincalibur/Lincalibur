@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=0891B2&center=true&vCenter=true&width=435&lines=Hi!+I'm+Liam+Olivier.;Full-Stack+Developer;Passionate+about+Tech+%26+Creativity!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=0891B2&center=true&vCenter=true&width=600&lines=Hi!+I'm+Liam+Olivier.;Full-Stack+Developer;Passionate+about+Tech+%26+Creativity!" alt="Typing SVG" />
 </p>
 
 Full-Stack Developer
