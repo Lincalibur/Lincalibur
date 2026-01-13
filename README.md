@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=0891B2&center=true&vCenter=true&width=600&lines=Hi!+I'm+Liam+Olivier.;Full-Stack+Developer;Passionate+about+Tech+%26+Creativity!" alt="Typing SVG" />
 </p>
 
-Full-Stack Developer
+Developer
 --------------------
 
 I'm Liam Olivier, a passionate software developer with a love for technology and creativity. My philosophy in life is summed up by the words of Salvador Dalí: "Intelligence without ambition is a bird without wings." I strive to combine intelligence with ambition to soar to new heights in my personal and professional endeavors.
