@@ -79,14 +79,21 @@ I'm a software developer based in the Western Cape, South Africa, focused on the
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
   <a href="https://lincalibur.github.io/GhostWire/">
     <img src="https://api.microlink.io/?url=https%3A%2F%2Flincalibur.github.io%2FGhostWire%2F&screenshot=true&meta=false&embed=screenshot.url&waitFor=1500&viewport.width=1280&viewport.height=800" width="100%" alt="GhostWire preview" />
   </a>
   <br />
   <b>GhostWire</b> — OSINT recon portal
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center">
+  <a href="https://lincalibur.github.io/The-Field-File/">
+    <img src="https://api.microlink.io/?url=https%3A%2F%2Flincalibur.github.io%2FThe-Field-File%2F&screenshot=true&meta=false&embed=screenshot.url&waitFor=1500&viewport.width=1280&viewport.height=800" width="100%" alt="The Field File preview" />
+  </a>
+  <br />
+  <b>The Field File</b> — self-study security training
+</td>
+<td width="33%" align="center">
   <a href="https://lincalibur.github.io/portfolio-web-platform/">
     <img src="https://api.microlink.io/?url=https%3A%2F%2Flincalibur.github.io%2Fportfolio-web-platform%2F&screenshot=true&meta=false&embed=screenshot.url&waitFor=1500&viewport.width=1280&viewport.height=800" width="100%" alt="Portfolio preview" />
   </a>
@@ -103,6 +110,7 @@ I'm a software developer based in the Western Cape, South Africa, focused on the
 | Repository | Description | Stack |
 |---|---|---|
 | [GhostWire](https://github.com/Lincalibur/GhostWire) | [Live site](https://lincalibur.github.io/GhostWire/) — OSINT recon portal: breach lookups, username enumeration, IP/domain checks | JavaScript |
+| [The-Field-File](https://github.com/Lincalibur/The-Field-File) | [Live site](https://lincalibur.github.io/The-Field-File/) — self-study security training across four tracks: cybersecurity fundamentals, OSINT, OPSEC, and IoT security | JavaScript |
 | [License-Management-System](https://github.com/Lincalibur/License-Management-System) | Tracks software licenses and payment schedules, with reporting | Python |
 | [Automated-Data-Migration-Tool](https://github.com/Lincalibur/Automated-Data-Migration-Tool) | Migrates Preset data sources to databases and extracts reports | Python |
 | [ClientMeetMatic](https://github.com/Lincalibur/ClientMeetMatic) | Applies the Travelling Salesman algorithm to real-world client meeting scheduling | Python |
