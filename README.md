@@ -61,20 +61,38 @@ I'm a software developer based in the Western Cape, South Africa, focused on the
 
 ---
 
-### Projects
+### Live Sites
 
-<p align="left">
-  <a href="https://lincalibur.github.io/portfolio-web-platform/">
-    <img src="https://img.shields.io/badge/Live%20Portfolio-lincalibur.github.io-0891B2?style=for-the-badge&logo=githubpages&logoColor=white" />
+<table>
+<tr>
+<td width="50%" align="center">
+  <a href="https://lincalibur.github.io/GhostWire/">
+    <img src="https://api.microlink.io/?url=https%3A%2F%2Flincalibur.github.io%2FGhostWire%2F&screenshot=true&meta=false&embed=screenshot.url&waitFor=1500&viewport.width=1280&viewport.height=800" width="100%" alt="GhostWire preview" />
   </a>
-</p>
+  <br />
+  <b>GhostWire</b> — OSINT recon portal
+</td>
+<td width="50%" align="center">
+  <a href="https://lincalibur.github.io/portfolio-web-platform/">
+    <img src="https://api.microlink.io/?url=https%3A%2F%2Flincalibur.github.io%2Fportfolio-web-platform%2F&screenshot=true&meta=false&embed=screenshot.url&waitFor=1500&viewport.width=1280&viewport.height=800" width="100%" alt="Portfolio preview" />
+  </a>
+  <br />
+  <b>Portfolio</b> — personal site
+</td>
+</tr>
+</table>
+
+---
+
+### Projects
 
 | Repository | Description | Stack |
 |---|---|---|
+| [GhostWire](https://github.com/Lincalibur/GhostWire) | [Live site](https://lincalibur.github.io/GhostWire/) — OSINT recon portal: breach lookups, username enumeration, IP/domain checks | JavaScript |
 | [License-Management-System](https://github.com/Lincalibur/License-Management-System) | Tracks software licenses and payment schedules, with reporting | Python |
 | [Automated-Data-Migration-Tool](https://github.com/Lincalibur/Automated-Data-Migration-Tool) | Migrates Preset data sources to databases and extracts reports | Python |
 | [ClientMeetMatic](https://github.com/Lincalibur/ClientMeetMatic) | Applies the Travelling Salesman algorithm to real-world client meeting scheduling | Python |
-| [portfolio-web-platform](https://github.com/Lincalibur/portfolio-web-platform) | Source for the live portfolio site linked above | TypeScript |
+| [portfolio-web-platform](https://github.com/Lincalibur/portfolio-web-platform) | [Live site](https://lincalibur.github.io/portfolio-web-platform/) — personal portfolio | TypeScript |
 
 ---
 
