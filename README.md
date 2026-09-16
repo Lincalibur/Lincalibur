@@ -101,6 +101,29 @@ I'm a software developer based in the Western Cape, South Africa, focused on the
   <b>Portfolio</b> — personal site
 </td>
 </tr>
+<tr>
+<td width="33%" align="center">
+  <a href="https://lincalibur.github.io/License-Management-System/">
+    <img src="https://api.microlink.io/?url=https%3A%2F%2Flincalibur.github.io%2FLicense-Management-System%2F&screenshot=true&meta=false&embed=screenshot.url&waitFor=1500&viewport.width=1280&viewport.height=800" width="100%" alt="License Management System preview" />
+  </a>
+  <br />
+  <b>License Management System</b> — license & payment tracking
+</td>
+<td width="33%" align="center">
+  <a href="https://lincalibur.github.io/Automated-Data-Migration-Tool/">
+    <img src="https://api.microlink.io/?url=https%3A%2F%2Flincalibur.github.io%2FAutomated-Data-Migration-Tool%2F&screenshot=true&meta=false&embed=screenshot.url&waitFor=3000&viewport.width=1280&viewport.height=900" width="100%" alt="Automated Data Migration Tool preview" />
+  </a>
+  <br />
+  <b>Automated Data Migration Tool</b> — Preset-to-database migration
+</td>
+<td width="33%" align="center">
+  <a href="https://lincalibur.github.io/ClientMeetMatic/">
+    <img src="https://api.microlink.io/?url=https%3A%2F%2Flincalibur.github.io%2FClientMeetMatic%2F&screenshot=true&meta=false&embed=screenshot.url&waitFor=1500&viewport.width=1280&viewport.height=800" width="100%" alt="ClientMeetMatic preview" />
+  </a>
+  <br />
+  <b>ClientMeetMatic</b> — TSP-based meeting scheduler
+</td>
+</tr>
 </table>
 
 ---
@@ -111,9 +134,9 @@ I'm a software developer based in the Western Cape, South Africa, focused on the
 |---|---|---|
 | [GhostWire](https://github.com/Lincalibur/GhostWire) | [Live site](https://lincalibur.github.io/GhostWire/) — OSINT recon portal: breach lookups, username enumeration, IP/domain checks | JavaScript |
 | [The-Field-File](https://github.com/Lincalibur/The-Field-File) | [Live site](https://lincalibur.github.io/The-Field-File/) — self-study security training across four tracks: cybersecurity fundamentals, OSINT, OPSEC, and IoT security | JavaScript |
-| [License-Management-System](https://github.com/Lincalibur/License-Management-System) | Tracks software licenses and payment schedules, with reporting | Python |
-| [Automated-Data-Migration-Tool](https://github.com/Lincalibur/Automated-Data-Migration-Tool) | Migrates Preset data sources to databases and extracts reports | Python |
-| [ClientMeetMatic](https://github.com/Lincalibur/ClientMeetMatic) | Applies the Travelling Salesman algorithm to real-world client meeting scheduling | Python |
+| [License-Management-System](https://github.com/Lincalibur/License-Management-System) | [Live site](https://lincalibur.github.io/License-Management-System/) — tracks software licenses and payment schedules, with reporting | Python |
+| [Automated-Data-Migration-Tool](https://github.com/Lincalibur/Automated-Data-Migration-Tool) | [Live site](https://lincalibur.github.io/Automated-Data-Migration-Tool/) — migrates Preset data sources to databases and extracts reports | Python |
+| [ClientMeetMatic](https://github.com/Lincalibur/ClientMeetMatic) | [Live site](https://lincalibur.github.io/ClientMeetMatic/) — applies the Travelling Salesman algorithm to real-world client meeting scheduling | Python |
 | [portfolio-web-platform](https://github.com/Lincalibur/portfolio-web-platform) | [Live site](https://lincalibur.github.io/portfolio-web-platform/) — personal portfolio | TypeScript |
 
 ---
