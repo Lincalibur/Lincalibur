@@ -124,6 +124,17 @@ I'm a software developer based in the Western Cape, South Africa, focused on the
   <b>ClientMeetMatic</b> — TSP-based meeting scheduler
 </td>
 </tr>
+<tr>
+<td width="33%" align="center">
+  <a href="https://lincalibur.github.io/HealthLog/">
+    <img src="https://api.microlink.io/?url=https%3A%2F%2Flincalibur.github.io%2FHealthLog%2F&screenshot=true&meta=false&embed=screenshot.url&waitFor=3000&viewport.width=1280&viewport.height=800" width="100%" alt="HealthLog preview" />
+  </a>
+  <br />
+  <b>HealthLog</b> — reverse-engineered smartwatch health logger
+</td>
+<td width="33%"></td>
+<td width="33%"></td>
+</tr>
 </table>
 
 ---
@@ -134,6 +145,7 @@ I'm a software developer based in the Western Cape, South Africa, focused on the
 |---|---|---|
 | [GhostWire](https://github.com/Lincalibur/GhostWire) | [Live site](https://lincalibur.github.io/GhostWire/) — OSINT recon portal: breach lookups, username enumeration, IP/domain checks | JavaScript |
 | [The-Field-File](https://github.com/Lincalibur/The-Field-File) | [Live site](https://lincalibur.github.io/The-Field-File/) — self-study security training across four tracks: cybersecurity fundamentals, OSINT, OPSEC, and IoT security | JavaScript |
+| [HealthLog](https://github.com/Lincalibur/HealthLog) | [Live site](https://lincalibur.github.io/HealthLog/) — revives an unsupported Genius F1 smartwatch via its reverse-engineered BLE protocol; an Android app syncs readings that are validated and charted here | Android · Python |
 | [License-Management-System](https://github.com/Lincalibur/License-Management-System) | [Live site](https://lincalibur.github.io/License-Management-System/) — tracks software licenses and payment schedules, with reporting | Python |
 | [Automated-Data-Migration-Tool](https://github.com/Lincalibur/Automated-Data-Migration-Tool) | [Live site](https://lincalibur.github.io/Automated-Data-Migration-Tool/) — migrates Preset data sources to databases and extracts reports | Python |
 | [ClientMeetMatic](https://github.com/Lincalibur/ClientMeetMatic) | [Live site](https://lincalibur.github.io/ClientMeetMatic/) — applies the Travelling Salesman algorithm to real-world client meeting scheduling | Python |
